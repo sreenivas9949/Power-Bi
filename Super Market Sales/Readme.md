@@ -6,4 +6,5 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 ## Project Highlights
 The project analyzes key areas including product performance, customer purchasing behavior, and sales trends across different locations. The dataset includes details on product categories, payment types, customer ratings, and sales timing. The dashboard features KPI cards, product line charts, payment method breakdowns, and location performance visuals. These visuals help in understanding how each factor contributes to overall business performance.
 
-![Super Market Sales](super market sales.png) 
+![Super Market Sales](Super Market Sales.png) 
+
