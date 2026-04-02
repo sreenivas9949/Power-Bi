@@ -26,3 +26,20 @@ This chart visualizes which payment methods are most popular for moving product 
 
 ### 6.Average Sales Quantity and Profit by Time
 This tracks performance throughout the day (from 10:00 to 19:00).Here Gross income (dark blue) shows high volatility with significant spikes, particularly around 13:00 and 16:00 (4:00 PM).
+
+## Dax Formulas Used
+* Gross Income = SUM(Sales[gross income] 
+* Product Sold = SUM('Sales'[Quantity]) 
+
+## Conclusion
+The analysis indicates that both online and offline sales show stable performance across all branches and cities. Product lines like Electronic Accessories and Food & Beverages continue to perform well, while other categories offer potential for growth through targeted promotions. Customer satisfaction levels are strong, and the balanced gender ratio suggests wide customer appeal. To further improve performance based on this analysis:
+
+* Certain product lines drive higher sales, indicating key areas for revenue growth.
+
+* Customer purchasing behavior and payment preferences are balanced, showing flexibility in transactions.
+
+* Time-based sales trends highlight peak periods for targeted promotions and optimized staffing.
+
+* Focusing on high-performing products and operational strategies can improve overall business performance and profitability.
+
+#### These actions will help the supermarket enhance profitability, improve customer satisfaction, and strengthen its position across both online and offline sales channels.
